@@ -1,4 +1,4 @@
-//package images;
+package src;
 import java.util.*;
 import java.lang.*;
 import java.awt.image.BufferedImage;

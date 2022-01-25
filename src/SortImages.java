@@ -1,8 +1,9 @@
+package src;
 import java.util.*;
 import java.util.stream.*;
-//package images;
+import src.*;
 
-class SortImages{
+public class SortImages{
 
   public static void main(String args[]){
     List<FinalImages> ilist = Arrays.asList(
